@@ -1,6 +1,6 @@
-import * as THREE from "three";
+import * as THREE from "./three.js";
 //import * as Tone from "tone";
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
+import { OrbitControls } from "./OrbitControls.js";
 import { planetClass } from "./planets.js";
 import { theSun } from "./sun.js";
 //import { Player } from "tone";

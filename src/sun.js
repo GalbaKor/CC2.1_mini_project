@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "./three.js";
 //import { Scene } from "three";
 //import { Noise } from "noisejs";
 
